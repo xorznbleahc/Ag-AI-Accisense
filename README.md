@@ -169,8 +169,10 @@ Accisense is a **hackathon prototype**.
 
 | Name | Role |
 |---|---|
-| _Add team member_ | _Role_ |
-| _Add team member_ | _Role_ |
+| _Mark Laurence Lanoria_ | _Team Leader_ |
+| _Jared Zeth Coronel_ | _ML/AI_ |
+| _Princess Miel Dimaculangan_ | _Full Stack_ |
+| _Sophia Alyssa Opeña_ | _Sales Representative_ |
 
 ## 🙏 Acknowledgments
 
